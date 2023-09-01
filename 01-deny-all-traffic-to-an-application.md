@@ -80,3 +80,4 @@ kubectl delete pod web
 kubectl delete service web
 kubectl delete networkpolicy web-deny-all
 ```
+hello
